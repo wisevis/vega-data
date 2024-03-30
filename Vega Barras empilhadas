@@ -1,0 +1,84 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "Um gráfico de barras empilhadas horizontais mostrando a distribuição de faixas etárias por país.",
+  "width": 400,
+  "height": 200,
+  "padding": 5,
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"País": "Portugal", "Categoria": "Jovens", "Valor": 100},
+        {"País": "Portugal", "Categoria": "Adultos", "Valor": 300},
+        {"País": "Portugal", "Categoria": "Idosos", "Valor": 200},
+        {"País": "Espanha", "Categoria": "Jovens", "Valor": 120},
+        {"País": "Espanha", "Categoria": "Adultos", "Valor": 280},
+        {"País": "Espanha", "Categoria": "Idosos", "Valor": 150}
+        // Adicione mais dados conforme necessário
+      ],
+      "transform": [
+        {
+          "type": "stack",
+          "groupby": ["País"],
+          "sort": {"field": "Categoria"},
+          "field": "Valor"
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "nice": true,
+      "zero": true,
+      "domain": {"data": "table", "field": "y1"}
+    },
+    {
+      "name": "y",
+      "type": "band",
+      "range": "height",
+      "domain": {"data": "table", "field": "País"}
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "Categoria"},
+      "range": {"scheme": "category20"}
+    }
+  ],
+  "axes": [
+    {"orient": "bottom", "scale": "x", "zindex": 1},
+    {"orient": "left", "scale": "y", "zindex": 1}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "y": {"scale": "y", "field": "País"},
+          "height": {"scale": "y", "band": 0.5},
+          "x": {"scale": "x", "field": "y0"},
+          "x2": {"scale": "x", "field": "y1"},
+          "fill": {"scale": "color", "field": "Categoria"}
+        }
+      }
+    }
+  ],
+  "legends": [
+    {
+      "fill": "color",
+      "title": "Categoria",
+      "orient": "right",
+      "encode": {
+        "symbols": {
+          "enter": {
+            "strokeWidth": {"value": 2}
+          }
+        }
+      }
+    }
+  ]
+}
