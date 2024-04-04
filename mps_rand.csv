@@ -1,0 +1,231 @@
+﻿Party,District,Position,Name,RandX,RandY,PosParty,PopDistrict,Index,Row,Col,Row2,Col2
+PCP-PEV,Lisboa,1, Paulo Alexandre Cantigas Raimundo,0,0,1,11,1000,0,1,0,1
+PCP-PEV,Lisboa,2, António Filipe Gaião Rodrigues,0,0,1,11,1001,0,2,0,2
+PCP-PEV,Porto,1, Manuel Alfredo da Rocha Maia,0,0,1,13,1002,0,3,0,3
+PCP-PEV,Setúbal,1, Paula Alexandra Sobral Guerreiro Santos Barbosa,0,0,1,15,1003,0,4,0,4
+BE,Lisboa,1, Mariana Rodrigues Mortágua,0,0,2,11,1004,0,5,0,5
+BE,Lisboa,2, Fabian Filipe Figueiredo,0,0,2,11,1005,0,6,0,6
+BE,Porto,1, Marisa Isabel dos Santos Matias,0,0,2,13,1006,0,7,0,7
+BE,Porto,2, José Borges de Araújo de Moura Soeiro,0,0,2,13,1007,0,8,0,8
+BE,Setúbal,1, Joana Rodrigues Mortágua,0,0,2,15,1008,0,9,0,9
+L,Lisboa,1, Rui Miguel Marcelino Tavares Pereira,0,0,3,11,1009,0,10,0,10
+L,Lisboa,2, Isabel Rendeiro Marques Mendes Lopes,0,0,3,11,1010,1,1,1,1
+L,Porto,1, Eduardo Jorge Costa Pinto,0,0,3,13,1011,1,2,1,2
+L,Setúbal,1, Paulo Jorge Velez Muacho,0,0,3,15,1012,1,3,1,3
+PS,Aveiro,1, Pedro Nuno de Oliveira Santos,0,0,4,1,1013,1,4,1,4
+PS,Aveiro,2, Cláudia Maria Cruz Santos,0,0,4,1,1014,1,5,1,5
+PS,Aveiro,3, Carlos Filipe de Andrade Neto Brandão,0,0,4,1,1015,1,6,1,6
+PS,Aveiro,4, Hugo Daniel Matos Oliveira,0,0,4,1,1016,1,7,1,7
+PS,Aveiro,5, Susana Alexandra Lopes Correia,0,0,4,1,1017,1,8,1,8
+PS,Beja,1, Nelson Domingos Brito,0,0,4,2,1018,1,9,1,9
+PS,Braga,1, José Luis Pereira Carneiro,0,0,4,3,1019,1,10,1,10
+PS,Braga,2, Palmira Maciel Fernandes da Costa,0,0,4,3,1020,2,1,2,1
+PS,Braga,3, Pedro Miguel Pereira de Sousa,0,0,4,3,1021,2,2,2,2
+PS,Braga,4, Ricardo Jorge Castro Ribeiro da Costa,0,0,4,3,1022,2,3,2,3
+PS,Braga,5, Irene Manuela Ferreira da Costa,0,0,4,3,1023,2,4,2,4
+PS,Braga,6, Gilberto António Sousa dos Anjos,0,0,4,3,1024,2,5,2,5
+PS,Bragança,1, Isabel Cristina Fernandes Rodrigues Ferreira,0,0,4,4,1025,2,6,2,6
+PS,Castelo Branco,1, Nuno Jorge Cardona Fazenda de Almeida,0,0,4,5,1026,2,7,2,7
+PS,Castelo Branco,2, Patrícia Alexandra da Silva Bento Caixinha,0,0,4,5,1027,2,8,2,8
+PS,Coimbra,1, Ana Maria Pereira Abrunhosa Trigueiros de Aragão,0,0,4,6,1028,2,9,2,9
+PS,Coimbra,2, Pedro Artur Barreirinhas Sales Guedes Coimbra,0,0,4,6,1029,2,10,2,10
+PS,Coimbra,3, Ricardo Manuel Garrido Lino,0,0,4,6,1030,3,1,3,1
+PS,Coimbra,4, Raquel Fátima Cardoso Ferreira,0,0,4,6,1031,3,2,3,2
+PS,Évora,1, Luis Carlos Piteira Dias,0,0,4,7,1032,3,3,3,3
+PS,Faro,1, Jamila Bárbara Madeira e Madeira,0,0,4,8,1033,3,4,3,4
+PS,Faro,2, Jorge Manuel do Nascimento Botelho,0,0,4,8,1034,3,5,3,5
+PS,Faro,3, Luís Miguel da Graça Nunes,0,0,4,8,1035,3,6,3,6
+PS,Guarda,1, Ana Manuel Jerónimo Lopes Correia Mendes Godinho,0,0,4,9,1036,3,7,3,7
+PS,Leiria,1, Eurico Jorge Nogueira Leite Brilhante Dias,0,0,4,10,1037,3,8,3,8
+PS,Leiria,2, Ana Sofia Pedroso Lopes Antunes,0,0,4,10,1038,3,9,3,9
+PS,Leiria,3, Walter Manuel Cavaleiro Chicharro,0,0,4,10,1039,3,10,3,10
+PS,Lisboa,1, Mariana Guimarães Vieira da Silva,0,0,4,11,1040,4,1,4,1
+PS,Lisboa,2, Marcos da Cunha e Lorena Perestrello de Vasconcellos,0,0,4,11,1041,4,2,4,2
+PS,Lisboa,3, Fernando Medina Maciel Almeida Correia,0,0,4,11,1042,4,3,4,3
+PS,Lisboa,4, Marta Alexandra Fartura Braga Temido de Almeida Simões,0,0,4,11,1043,4,4,4,4
+PS,Lisboa,5, Pedro Filipe Mota Delgado Simões Alves,0,0,4,11,1044,4,5,4,5
+PS,Lisboa,6, Sérgio Paulo de Mendes Sousa Pinto,0,0,4,11,1045,4,6,4,6
+PS,Lisboa,7, Edite Fátima Santos Marreiros Estrela,0,0,4,11,1046,4,7,4,7
+PS,Lisboa,8, Miguel Filipe Pardal Cabrita,0,0,4,11,1047,4,8,4,8
+PS,Lisboa,9, Pedro Manuel Amaro Martins Vaz,0,0,4,11,1048,4,9,4,9
+PS,Lisboa,10, Ana Paula Mata Bernardo,0,0,4,11,1049,4,10,4,10
+PS,Lisboa,11, Carlos João Pereira,0,0,4,11,1050,5,1,5,1
+PS,Lisboa,12, Isabel de Lima Mayer Alves Moreira,0,0,4,11,1051,5,2,5,2
+PS,Lisboa,13, Ricardo Jorge Monteiro Lima,0,0,4,11,1052,5,3,5,3
+PS,Lisboa,14, Cristina Maria da Fonseca Santos Bacelar Begonha,0,0,4,11,1053,5,4,5,4
+PS,Lisboa,15, André Filipe dos Santos Matos Rijo,0,0,4,11,1054,5,5,5,5
+PS,Portalegre,1, Ricardo Miguel Furtado Pinheiro,0,0,4,12,1055,5,6,5,6
+PS,Porto,1, Francisco José Pereira de Assis Miranda,0,0,4,13,1056,5,7,5,7
+PS,Porto,2, Maria do Rosário Gamboa Lopes de Carvalho,0,0,4,13,1057,5,8,5,8
+PS,Porto,3, Manuel Francisco Pizarro de Sampaio e Castro,0,0,4,13,1058,5,9,5,9
+PS,Porto,4, João Veloso da Silva Torres,0,0,4,13,1059,5,10,5,10
+PS,Porto,5, Patrícia Monte Pinto Ribeiro Faro,0,0,4,13,1060,6,1,6,1
+PS,Porto,6, João Paulo Moreira Correia,0,0,4,13,1061,6,2,6,2
+PS,Porto,7, Maria Isabel Solnado Porto Oneto,0,0,4,13,1062,6,3,6,3
+PS,Porto,8, Tiago Barbosa Ribeiro,0,0,4,13,1063,6,4,6,4
+PS,Porto,9, Joana Fernanda Ferreira de Lima,0,0,4,13,1064,6,5,6,5
+PS,Porto,10, Eduardo Nuno Rodrigues e Pinheiro,0,0,4,13,1065,6,6,6,6
+PS,Porto,11, José Carlos Ribeiro Barbosa,0,0,4,13,1066,6,7,6,7
+PS,Porto,12, Isabel Sofia Alves de Andrade,0,0,4,13,1067,6,8,6,8
+PS,Porto,13, Carlos Alberto Silva Braz,0,0,4,13,1068,6,9,6,9
+PS,Santarém,1, Alexandra Ludomila Ribeiro Fernandes Leitão,0,0,4,14,1069,6,10,6,10
+PS,Santarém,2, Hugo Miguel Carvalheiro dos Santos Costa,0,0,4,14,1070,7,1,7,1
+PS,Santarém,3, Mara Lúcia Lagriminha Coelho,0,0,4,14,1071,7,2,7,2
+PS,Setúbal,1, Ana Catarina Veiga dos Santos Mendonça Mendes,0,0,4,15,1072,7,3,7,3
+PS,Setúbal,2, Miguel de Oliveira Pires da Costa de Matos,0,0,4,15,1073,7,4,7,4
+PS,Setúbal,3, António Manuel Veiga dos Santos Mendonça Mendes,0,0,4,15,1074,7,5,7,5
+PS,Setúbal,4, Eurídice Maria de Sousa Pereira,0,0,4,15,1075,7,6,7,6
+PS,Setúbal,5, André Alexandre Pinotes Batista,0,0,4,15,1076,7,7,7,7
+PS,Setúbal,6, João Paulo de Loureiro Rebelo,0,0,4,15,1077,7,8,7,8
+PS,Setúbal,7, Clarisse Maria Gaudino Veredas Campos,0,0,4,15,1078,7,9,7,9
+PS,Viana do Castelo,1, Marina Sola Gonçalves,0,0,4,16,1079,7,10,7,10
+PS,Viana do Castelo,2, José Maria da Cunha Costa,0,0,4,16,1080,8,1,8,1
+PS,Vila Real,1, Fátima Liliana Fontes Correia Pinto,0,0,4,17,1081,8,2,8,2
+PS,Vila Real,2, Carlos Manuel Gomes Matos da Silva,0,0,4,17,1082,8,3,8,3
+PS,Viseu,1, Elsa Maria Henriques Deus Pais,0,0,4,18,1083,8,4,8,4
+PS,Viseu,2, José Rui Alves Duarte da Cruz,0,0,4,18,1084,8,5,8,5
+PS,Viseu,3, João Nuno Ferreira Gonçalves de Azevedo,0,0,4,18,1085,8,6,8,6
+PS,Açores,1, Francisco Miguel Vital Gomes do Vale César,0,0,4,19,1086,8,7,8,7
+PS,Açores,2, Sérgio Humberto Rocha de Ávila,0,0,4,19,1087,8,8,8,8
+PS,Madeira,1, Paulo Alexandre Nascimento Cafôfo,0,0,4,20,1088,8,9,8,9
+PS,Madeira,2, José Miguel Mafra Iglésias,0,0,4,20,1089,8,10,8,10
+PS,Europa,1, Paulo Alexandre de Carvalho Pisco,0,0,4,21,1090,9,1,9,1
+PAN,Lisboa,1, Paula Inês Alves de Sousa Real,0,0,5,11,1091,9,2,9,2
+PSD,Aveiro,1, Emídio Ferreira dos Santos Sousa,0,0,6,1,1092,9,3,9,3
+PSD,Aveiro,2, Silvério Rodrigues Regalado,0,0,6,1,1093,9,4,9,4
+PSD,Aveiro,3, Ângela Maria Bento Rodrigues Nunes Saraiva de Almeida,0,0,6,1,1094,9,5,9,5
+PSD,Aveiro,4, Salvador Malheiro Ferreira da Silva,0,0,6,1,1095,9,6,9,6
+PSD,Aveiro,5, Almiro Miguel Santos Rodrigues Moreira,0,0,6,1,1096,9,7,9,7
+PSD,Aveiro,6, Maria Paula da Graça Cardoso,0,0,6,1,1097,9,8,9,8
+PSD,Aveiro,7, Paulo Cesar Lima Cavaleiro,0,0,6,1,1098,9,9,9,9
+PSD,Beja,1, Gonçalo Nuno Raio Valente e Henrique,0,0,6,2,1099,9,10,9,10
+PSD,Braga,1, Hugo Alexandre Lopes Soares,0,0,6,3,1100,10,1,10,1
+PSD,Braga,2, Ricardo José Machado Pereira da Silva Araújo,0,0,6,3,1101,10,2,10,2
+PSD,Braga,3, Maria Clara Gonçalves Marques Mendes,0,0,6,3,1102,10,3,10,3
+PSD,Braga,4, Jorge Paulo da Silva Oliveira,0,0,6,3,1103,10,4,10,4
+PSD,Braga,5, Emídio Guerreiro,0,0,6,3,1104,10,5,10,5
+PSD,Braga,6, Ana Cristina Rodrigues dos Santos Araújo,0,0,6,3,1105,10,6,10,6
+PSD,Braga,7, Carlos Eduardo Vasconcelos Fernandes Ribeiro dos Reis,0,0,6,3,1106,10,7,10,7
+PSD,Braga,8, Carlos Manuel de Brito Cação,0,0,6,3,1107,10,8,10,8
+PSD,Bragança,1, Hernâni Dinis Venâncio Dias,0,0,6,4,1108,10,9,10,9
+PSD,Bragança,2, Nuno Jorge Rodrigues Gonçalves,0,0,6,4,1109,10,10,10,10
+PSD,Castelo Branco,1, Liliana Domingues Reis Ferreira,0,0,6,5,1110,11,1,11,1
+PSD,Coimbra,1, Rita Fragoso de Rhodes Alarcão Júdice de Abreu e Mota,0,0,6,6,1111,11,2,11,2
+PSD,Coimbra,2, Maurício Teixeira Marques,0,0,6,6,1112,11,3,11,3
+PSD,Coimbra,3, Martim Arnaut Syder,0,0,6,6,1113,11,4,11,4
+PSD,Évora,1, Sónia Cristina Silva dos Ramos,0,0,6,7,1114,11,5,11,5
+PSD,Faro,1, Miguel Martinez de Castro Pinto Luz,0,0,6,8,1115,11,6,11,6
+PSD,Faro,2, Cristóvão Duarte Nunes Guerreiro Norte,0,0,6,8,1116,11,7,11,7
+PSD,Faro,3, Ofélia Isabel Andrés da Conceição Ramos,0,0,6,8,1117,11,8,11,8
+PSD,Guarda,1, Dulcineia Catarina Moura de Sousa Coito,0,0,6,9,1118,11,9,11,9
+PSD,Leiria,1, Telmo Henrique Correia Daniel Faria,0,0,6,10,1119,11,10,11,10
+PSD,Leiria,2, Hugo Patricio Martinho de Oliveira,0,0,6,10,1120,12,1,12,1
+PSD,Leiria,3, Sofia Isabel Carreira,0,0,6,10,1121,12,2,12,2
+PSD,Leiria,4, João Paulo Antunes dos Santos,0,0,6,10,1122,12,3,12,3
+PSD,Leiria,5, Ricardo António Beato de Carvalho,0,0,6,10,1123,12,4,12,4
+PSD,Lisboa,1, Luís Filipe Montenegro Cardoso de Morais Esteves,0,0,6,11,1124,12,5,12,5
+PSD,Lisboa,2, Joaquim José Miranda Sarmento,0,0,6,11,1125,12,6,12,6
+PSD,Lisboa,3, Ana Paula Mecheiro de Almeida Martins Silvestre Correia,0,0,6,11,1126,12,7,12,7
+PSD,Lisboa,5, João Mário Mc Millan da Cunha Vale e Azevedo,0,0,6,11,1127,12,8,12,8
+PSD,Lisboa,6, Sandra Cristina de Sequeiros Pereira,0,0,6,11,1128,12,9,12,9
+PSD,Lisboa,7, Bruno Miguel Pedrosa Ventura,0,0,6,11,1129,12,10,12,10
+PSD,Lisboa,8, Manuel Alexandre Mateus Homem Cristo,0,0,6,11,1130,13,1,13,1
+PSD,Lisboa,9, Margarida Maria de Moura Alves da Silva de Almeida Saavedra,0,0,6,11,1131,13,2,13,2
+PSD,Lisboa,10, Alexandre Damasceno da Silva Poço,0,0,6,11,1132,13,3,13,3
+PSD,Lisboa,11, Gonçalo Oliveira Lage,0,0,6,11,1133,13,4,13,4
+PSD,Lisboa,12, Eva Luna Brás Pinho,0,0,6,11,1134,13,5,13,5
+PSD,Lisboa,13, Marco Henriques Claudino,0,0,6,11,1135,13,6,13,6
+PSD,Lisboa,14, Luís Pedro Alves Caetano Newton Parreira,0,0,6,11,1136,13,7,13,7
+PSD,Porto,1, José Miguel Ribeiro de Castro Guimarães,0,0,6,13,1137,13,8,13,8
+PSD,Porto,3, Maria Germana de Sousa Rocha,0,0,6,13,1138,13,9,13,9
+PSD,Porto,4, Óscar João Atanázio Afonso,0,0,6,13,1139,13,10,13,10
+PSD,Porto,5, Alberto Amaro Guedes Machado,0,0,6,13,1140,14,1,14,1
+PSD,Porto,6, Andreia Carina Machado da Silva Neto,0,0,6,13,1141,14,2,14,2
+PSD,Porto,7, António Pedro Roque da Visitação Oliveira,0,0,6,13,1142,14,3,14,3
+PSD,Porto,8, Francisco Sérgio Covelinhas Lopes,0,0,6,13,1143,14,4,14,4
+PSD,Porto,9, Olga Cristina Rodrigues da Veiga Freire,0,0,6,13,1144,14,5,14,5
+PSD,Porto,10, Hugo Miguel de Sousa Carneiro,0,0,6,13,1145,14,6,14,6
+PSD,Porto,11, Alberto Jorge Torres da Silva Fonseca,0,0,6,13,1146,14,7,14,7
+PSD,Porto,12, Ana Gabriela Oliveira Cabilhas,0,0,6,13,1147,14,8,14,8
+PSD,Porto,13, Pedro Miguel Neves de Sousa,0,0,6,13,1148,14,9,14,9
+PSD,Porto,14, Francisco José de Sousa Vieira,0,0,6,13,1149,14,10,14,10
+PSD,Santarém,1, Eduardo Manuel Drummond de Oliveira e Sousa,0,0,6,14,1150,15,1,15,1
+PSD,Santarém,2, João Manuel Moura Rodrigues,0,0,6,14,1151,15,2,15,2
+PSD,Santarém,3, Isaura Maria Elias Crisóstomo Bernardino Morais,0,0,6,14,1152,15,3,15,3
+PSD,Setúbal,1, Maria Teresa da Silva Morais,0,0,6,15,1153,15,4,15,4
+PSD,Setúbal,2, Paulo Jorge Simões Ribeiro,0,0,6,15,1154,15,5,15,5
+PSD,Setúbal,3, Bruno Jorge Viegas Vitorino,0,0,6,15,1155,15,6,15,6
+PSD,Setúbal,4, Sónia dos Reis,0,0,6,15,1156,15,7,15,7
+PSD,Viana do Castelo,1, José Pedro Correia de Aguiar Branco,0,0,6,16,1157,15,8,15,8
+PSD,Viana do Castelo,2, Maria Emília e Sousa Cerqueira,0,0,6,16,1158,15,9,15,9
+PSD,Vila Real,1, Amílcar Rodrigues Alves Castro de Almeida,0,0,6,17,1159,15,10,15,10
+PSD,Vila Real,2, António Alberto Pires Aguiar Machado,0,0,6,17,1160,16,1,16,1
+PSD,Viseu,1, António Egrejas Leitão Amaro,0,0,6,18,1161,16,2,16,2
+PSD,Viseu,2, Pedro Filipe dos Santos Alves,0,0,6,18,1162,16,3,16,3
+PSD,Viseu,3, Inês Carmelo Rosa Calado Lopes Domingos,0,0,6,18,1163,16,4,16,4
+PSD,Açores,1, Paulo Alexandre Luís Botelho Moniz,0,0,6,19,1164,16,5,16,5
+PSD,Açores,2, Francisco José Duarte Pimentel,0,0,6,19,1165,16,6,16,6
+PSD,Madeira,1, Pedro Emanuel Abreu Coelho,0,0,6,20,1166,16,7,16,7
+PSD,Madeira,2, Paula Cristina Baptista Margarido,0,0,6,20,1167,16,8,16,8
+PSD,Madeira,3, Paulo Alexandre de Sousa Neves,0,0,6,20,1168,16,9,16,9
+PSD,Fora da Europa,1, José de Almeida Cesário,0,0,6,22,1169,16,10,16,10
+IL,Aveiro,1, Mário Filipe Amorim Faria de Oliveira Lopes,0,0,7,1,1170,17,1,17,1
+IL,Braga,1, Rui Nuno de Oliveira Garcia da Rocha,0,0,7,3,1171,17,2,17,2
+IL,Lisboa,1, Bernardo Alves Martinho Amaral Blanco,0,0,7,11,1172,17,3,17,3
+IL,Lisboa,2, Mariana de Lemos Quintão Correia Leitão,0,0,7,11,1173,17,4,17,4
+IL,Lisboa,3, Rodrigo Miguel Dias Saraiva,0,0,7,11,1174,17,5,17,5
+IL,Porto,1, Carlos Manuel Guimarães Oliveira Pinto,0,0,7,13,1175,17,6,17,6
+IL,Porto,2, Ana Patrícia Costa Gilvaz,0,0,7,13,1176,17,7,17,7
+IL,Setúbal,1, Joana Rita Madaleno Cordeiro,0,0,7,15,1177,17,8,17,8
+CH,Aveiro,1, Jorge Manuel de Valsassina Galveias Rodrigues,0.015447297,-0.002538901,9,1,1178,17,9,13.58602215,13.9083811
+CH,Aveiro,2, Maria José Gomes de Aguiar,-0.018656588,-0.004981787,9,1,1179,17,10,21.24052116,14.45022938
+CH,Aveiro,3, Armando Carlos da Silva Grave,0.019788357,0.01687058,9,1,1180,18,1,22.28097726,-3.211372535
+CH,Beja,1, Diva Nélia Capela de Jesus Ribeiro,0.014051537,0.019364802,9,2,1181,18,2,14.37251393,-1.658167919
+CH,Braga,1, António Filipe Dias Melo Peixoto,-0.009974751,0.003219668,9,3,1182,18,3,19.90662451,-1.102203597
+CH,Braga,2, Rodrigo Santos Alves Taxa,0.002272368,-0.003433783,9,3,1183,18,4,21.30302358,4.618440702
+CH,Braga,3, Vanessa Claúdia Nogueira da Rosa Barata,0.003157138,-0.007401408,9,3,1184,18,5,18.52240753,5.848505249
+CH,Braga,4, Carlos Alberto Barbosa Vieira Pinto,0.02188592,0.013704799,9,3,1185,18,6,14.83539769,4.943895484
+CH,Castelo Branco,1, João Filipe Dias Ribeiro,-0.007258966,-0.006183828,9,5,1186,18,7,18.97824529,4.612402912
+CH,Coimbra,1, António José Cerejo Pinto Pereira,0.001990936,0.012766452,9,6,1187,18,8,16.24523873,5.071740206
+CH,Coimbra,2, Eliseu da Costa Neves,-0.019351673,0.02063846,9,6,1188,18,9,16.73797854,4.719926254
+CH,Évora,1, Rui Celestino dos Santos Cristina,-0.021708784,0.020725405,9,7,1189,18,10,16.01157704,7.887719265
+CH,Faro,1, Pedro Miguel Soares Pinto,-0.00988886,-0.018704193,9,8,1190,19,1,18.71398194,2.634017807
+CH,Faro,2, João Paulo da Silva Graça,0.011412918,-0.021084638,9,8,1191,19,2,20.95731422,6.881227972
+CH,Faro,3, Sandra Margarida de Melo Pereira Ribeiro,-0.005986194,0.013620357,9,8,1192,19,3,21.40728948,5.182920695
+CH,Guarda,1, Carlos Nuno Gomes e Simões de Melo,0.02137718,-0.016357663,9,9,1193,19,4,17.42270177,5.435677464
+CH,Leiria,1, Gabriel Sérgio Mithá Ribeiro,0.006172278,-0.019732817,9,10,1194,19,5,22.79922046,5.964261703
+CH,Leiria,2, Luis Paulo Pereira Fernandes,0.01542062,0.006958213,9,10,1195,19,6,17.53460522,5.464411182
+CH,Lisboa,1, André Claro Amaral Ventura,-0.002204021,0.003438222,9,11,1196,19,7,15.68399599,8.792016411
+CH,Lisboa,2, Rui Paulo Duque de Sousa,-0.020666406,-0.002581729,9,11,1197,19,8,14.54154338,12.95833532
+CH,Lisboa,3, Marta Sofia Martins da Silva Trindade,0.007802156,0.019159445,9,11,1198,19,9,19.9470924,4.514855511
+CH,Lisboa,4, Pedro Manuel de Andrade Pessanha Fernandes,0.012689469,0.008495068,9,11,1199,19,10,14.36593663,13.3849772
+CSD,Lisboa,4, Paulo de Faria Lince Núncio,0,0,8,11,1200,20,1,20,1
+CH,Lisboa,5, Ricardo Dias Pinto Blaufuks,-0.003355278,-0.003700515,9,11,1201,20,2,19.09481774,5.20343045
+CH,Lisboa,6, Felicidade Maria da Silva Santos Vital de Alcântara,0.002211324,0.004723226,9,11,1202,20,3,24.03280767,4.48786518
+CH,Lisboa,7, Bruno Miguel de Oliveira Nunes,-0.001015214,0.000181897,9,11,1203,20,4,20.29902371,1.533203997
+CH,Lisboa,8, Madalena Simões Cordeiro,-0.002421142,0.002283588,9,11,1204,20,5,21.35916435,6.532797919
+CH,Lisboa,9, José Manuel Pombinho Barreira Soares,-0.010783532,0.001282793,9,11,1205,20,6,21.23095169,8.855278871
+CH,Portalegre,1, Henrique José Praia da Rocha de Freitas,-0.023907248,-0.023932986,9,12,1206,20,7,20.12576183,4.196441417
+CH,Porto,1, Rui Pedro da Silva Afonso,-0.005061492,-0.02383956,9,13,1207,20,8,23.86321227,11.20303673
+CH,Porto,2, Diogo Velez Mouta Pacheco de Amorim,-0.018882344,0.023950173,9,13,1208,20,9,19.76297847,10.84884199
+CSD,Porto,2, João Nuno Lacerda Teixeira de Melo,0,0,8,13,1209,20,10,20,10
+CH,Porto,3, Maria Cristina Pacheco Rodrigues,-0.001200022,0.011028692,9,13,1210,21,1,17.26595271,2.316649801
+CH,Porto,4, José António Ribeiro Carvalho,0.016985123,0.007219048,9,13,1211,21,2,24.75755769,0.150112658
+CH,Porto,5, Marcus Vinicius Teixeira Soares dos Santos,0.010299116,-0.024126438,9,13,1212,21,3,18.42919723,0.855196825
+CH,Porto,6, Sónia Cristina de Sousa Monteiro,-0.011112914,0.00727469,9,13,1213,21,4,17.9522673,6.569753182
+CH,Porto,7, Raúl Gabriel Palha de Bessa Melo,0.011344212,0.022822585,9,13,1214,21,5,18.73022418,8.65075497
+CH,Santarém,1, Pedro Saraiva Gonçalves dos Santos Frazão,0.006277861,-0.024547693,9,14,1215,21,6,25.91503833,7.23310262
+CH,Santarém,2, Pedro Alexandre Arrabaça da Silva Oliveira Correia,0.014652838,-0.005139315,9,14,1216,21,7,24.41987466,6.901170091
+CH,Santarém,3, Luísa Maria Lobo da Costa Macedo,-0.016920542,0.018419126,9,14,1217,21,8,24.36548788,7.867094599
+CH,Setúbal,1, Rita Maria Cid Matias,-0.002789169,-0.012606404,9,15,1218,21,9,20.15500903,12.44275262
+CH,Setúbal,2, Patricia Alexandra Martins de Carvalho,-0.019260615,0.013880548,9,15,1219,21,10,16.40909566,5.793504012
+CH,Setúbal,3, Nuno Miguel da Costa Gabriel,-0.002338265,-0.004397725,9,15,1220,22,1,24.98056043,3.071793708
+CH,Setúbal,4, Daniel Madeira Caetano Teixeira,-0.018444208,0.008987123,9,15,1221,22,2,22.70080266,-0.294359952
+CH,Viana do Castelo,1, Eduardo Alexandre Ribeiro Gonçalves Teixeira,-0.006791612,0.017649566,9,16,1222,22,3,19.54002825,6.191670597
+CH,Vila Real,1, Maria Manuela Pereira Tender,-0.007965876,-0.018031788,9,17,1223,22,4,24.23992923,2.995012831
+CH,Viseu,1, João José Rodrigues Tilly,-0.006214651,0.0075903,9,18,1224,22,5,24.95827191,9.161142361
+CH,Viseu,2, Bernardo Cappelle Homem Caldeira Pessanha,0.009597686,0.023021507,9,18,1225,22,6,18.91731178,8.952178688
+CH,Açores,1, Miguel António Taveira Franco Sousa Arruda,0.016593741,-0.009467604,9,19,1226,22,7,17.94854725,4.839840399
+CH,Madeira,1, Francisco Manuel de Freitas Gomes,0.002794589,-0.013691226,9,20,1227,22,8,17.13546368,4.022372587
+CH,Europa,1, José Dias Fernandes,0.018584595,0.016211635,9,21,1228,22,9,20.66226767,10.52486078
+CH,Fora da Europa,1, Manuel Magno Alves,0.007212732,-0.01448829,9,22,1229,22,10,22.1905238,6.265970596
