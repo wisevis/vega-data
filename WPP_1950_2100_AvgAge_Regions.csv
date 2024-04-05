@@ -1,4 +1,4 @@
-﻿Country,GeoRegName,SDGRegName,Year,AvgAge,Population
+﻿Country,GeoRegName,SDGRegName,Year,AvAge,Population
 Austria,Europe,Europe and Northern America,1950,35.46,6937809
 Austria,Europe,Europe and Northern America,1951,35.63,6935070
 Austria,Europe,Europe and Northern America,1952,35.81,6925793
@@ -4407,158 +4407,158 @@ Bolivia (Plurinational State of),Latin America and the Caribbean,Latin America a
 Bolivia (Plurinational State of),Latin America and the Caribbean,Latin America and the Caribbean,2099,42.43,18880647
 Bolivia (Plurinational State of),Latin America and the Caribbean,Latin America and the Caribbean,2100,42.56,18868633
 Bolivia (Plurinational State of),Latin America and the Caribbean,Latin America and the Caribbean,2101,42.69,18854409
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1950,34.55,6988
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1951,33.74,6989
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1952,33.06,7030
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1953,32.52,7109
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1954,32.03,7228
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1955,32.02,7535
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1956,31.56,7519
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1957,31.03,7516
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1958,30.52,7530
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1959,29.96,7570
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1960,29.36,7623
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1961,29.1,7734
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1962,29.06,7861
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1963,28.99,8013
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1964,28.93,8184
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1965,28.84,8377
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1966,28.74,8586
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1967,28.63,8808
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1968,28.52,9052
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1969,28.46,9302
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1970,28.43,9553
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1971,28.44,9808
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1972,28.52,10053
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1973,28.83,10259
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1974,29.1,10400
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1975,29.38,10560
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1976,29.62,10733
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1977,29.84,10912
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1978,30.03,11089
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1979,30.25,11278
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1980,30.43,11448
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1981,30.72,11638
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1982,30.82,11749
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1983,30.81,11833
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1984,30.82,11923
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1985,30.85,12018
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1986,30.88,12108
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1987,30.94,12204
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1988,31.03,12311
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1989,31.11,12419
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1990,31.22,12543
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1991,31.31,12665
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1992,31.42,12788
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1993,31.56,12896
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1994,31.76,13004
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1995,31.95,13136
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1996,32.16,13276
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1997,32.36,13420
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1998,32.56,13569
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1999,32.78,13723
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2000,33.02,13878
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2001,33.25,14043
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2002,33.5,14439
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2003,33.82,15069
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2004,34.13,15713
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2005,34.51,16388
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2006,34.88,17061
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2007,35.26,17749
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2008,35.68,18445
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2009,36.11,19156
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2010,36.57,19868
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2011,37.06,20579
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2012,37.4,21167
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2013,37.69,21723
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2014,37.92,22283
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2015,38.19,22858
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2016,38.48,23470
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2017,38.76,24069
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2018,39.04,24662
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2019,39.35,25278
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2020,39.68,25863
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2021,40.02,26443
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2022,40.2,26969
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2023,40.4,27084
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2024,40.64,27212
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2025,40.89,27332
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2026,41.14,27466
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2027,41.39,27570
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2028,41.63,27670
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2029,41.88,27767
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2030,42.12,27870
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2031,42.37,27939
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2032,42.59,28022
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2033,42.82,28095
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2034,43.04,28158
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2035,43.23,28219
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2036,43.43,28276
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2037,43.62,28336
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2038,43.79,28386
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2039,43.94,28432
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2040,44.09,28478
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2041,44.23,28524
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2042,44.35,28551
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2043,44.46,28585
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2044,44.56,28625
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2045,44.65,28646
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2046,44.73,28672
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2047,44.81,28690
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2048,44.87,28707
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2049,44.94,28718
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2050,45.01,28736
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2051,45.06,28734
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2052,45.12,28736
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2053,45.17,28730
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2054,45.23,28731
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2055,45.28,28718
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2056,45.33,28717
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2057,45.39,28709
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2058,45.45,28708
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2059,45.51,28698
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2060,45.56,28687
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2061,45.62,28682
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2062,45.68,28673
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2063,45.73,28666
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2064,45.81,28659
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2065,45.86,28649
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2066,45.91,28642
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2067,45.96,28632
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2068,46.02,28644
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2069,46.06,28637
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2070,46.1,28624
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2071,46.14,28625
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2072,46.18,28622
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2073,46.21,28621
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2074,46.23,28615
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2075,46.25,28613
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2076,46.27,28608
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2077,46.3,28612
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2078,46.31,28613
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2079,46.33,28610
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2080,46.35,28607
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2081,46.37,28611
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2082,46.39,28620
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2083,46.42,28617
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2084,46.44,28627
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2085,46.48,28646
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2086,46.5,28650
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2087,46.56,28677
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2088,46.6,28685
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2089,46.65,28712
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2090,46.71,28730
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2091,46.76,28748
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2092,46.83,28778
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2093,46.9,28804
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2094,46.96,28818
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2095,47.03,28849
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2096,47.09,28870
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2097,47.16,28898
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2098,47.22,28916
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2099,47.27,28934
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2100,47.33,28958
-Bonaire, Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2101,47.38,28983
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1950,34.55,6988
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1951,33.74,6989
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1952,33.06,7030
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1953,32.52,7109
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1954,32.03,7228
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1955,32.02,7535
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1956,31.56,7519
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1957,31.03,7516
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1958,30.52,7530
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1959,29.96,7570
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1960,29.36,7623
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1961,29.1,7734
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1962,29.06,7861
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1963,28.99,8013
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1964,28.93,8184
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1965,28.84,8377
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1966,28.74,8586
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1967,28.63,8808
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1968,28.52,9052
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1969,28.46,9302
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1970,28.43,9553
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1971,28.44,9808
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1972,28.52,10053
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1973,28.83,10259
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1974,29.1,10400
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1975,29.38,10560
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1976,29.62,10733
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1977,29.84,10912
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1978,30.03,11089
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1979,30.25,11278
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1980,30.43,11448
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1981,30.72,11638
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1982,30.82,11749
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1983,30.81,11833
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1984,30.82,11923
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1985,30.85,12018
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1986,30.88,12108
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1987,30.94,12204
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1988,31.03,12311
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1989,31.11,12419
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1990,31.22,12543
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1991,31.31,12665
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1992,31.42,12788
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1993,31.56,12896
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1994,31.76,13004
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1995,31.95,13136
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1996,32.16,13276
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1997,32.36,13420
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1998,32.56,13569
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,1999,32.78,13723
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2000,33.02,13878
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2001,33.25,14043
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2002,33.5,14439
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2003,33.82,15069
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2004,34.13,15713
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2005,34.51,16388
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2006,34.88,17061
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2007,35.26,17749
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2008,35.68,18445
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2009,36.11,19156
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2010,36.57,19868
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2011,37.06,20579
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2012,37.4,21167
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2013,37.69,21723
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2014,37.92,22283
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2015,38.19,22858
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2016,38.48,23470
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2017,38.76,24069
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2018,39.04,24662
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2019,39.35,25278
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2020,39.68,25863
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2021,40.02,26443
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2022,40.2,26969
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2023,40.4,27084
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2024,40.64,27212
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2025,40.89,27332
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2026,41.14,27466
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2027,41.39,27570
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2028,41.63,27670
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2029,41.88,27767
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2030,42.12,27870
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2031,42.37,27939
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2032,42.59,28022
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2033,42.82,28095
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2034,43.04,28158
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2035,43.23,28219
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2036,43.43,28276
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2037,43.62,28336
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2038,43.79,28386
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2039,43.94,28432
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2040,44.09,28478
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2041,44.23,28524
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2042,44.35,28551
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2043,44.46,28585
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2044,44.56,28625
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2045,44.65,28646
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2046,44.73,28672
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2047,44.81,28690
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2048,44.87,28707
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2049,44.94,28718
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2050,45.01,28736
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2051,45.06,28734
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2052,45.12,28736
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2053,45.17,28730
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2054,45.23,28731
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2055,45.28,28718
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2056,45.33,28717
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2057,45.39,28709
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2058,45.45,28708
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2059,45.51,28698
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2060,45.56,28687
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2061,45.62,28682
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2062,45.68,28673
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2063,45.73,28666
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2064,45.81,28659
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2065,45.86,28649
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2066,45.91,28642
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2067,45.96,28632
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2068,46.02,28644
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2069,46.06,28637
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2070,46.1,28624
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2071,46.14,28625
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2072,46.18,28622
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2073,46.21,28621
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2074,46.23,28615
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2075,46.25,28613
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2076,46.27,28608
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2077,46.3,28612
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2078,46.31,28613
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2079,46.33,28610
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2080,46.35,28607
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2081,46.37,28611
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2082,46.39,28620
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2083,46.42,28617
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2084,46.44,28627
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2085,46.48,28646
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2086,46.5,28650
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2087,46.56,28677
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2088,46.6,28685
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2089,46.65,28712
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2090,46.71,28730
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2091,46.76,28748
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2092,46.83,28778
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2093,46.9,28804
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2094,46.96,28818
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2095,47.03,28849
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2096,47.09,28870
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2097,47.16,28898
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2098,47.22,28916
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2099,47.27,28934
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2100,47.33,28958
+Bonaire - Sint Eustatius and Saba,Latin America and the Caribbean,Latin America and the Caribbean,2101,47.38,28983
 Bosnia and Herzegovina,Europe,Europe and Northern America,1950,24.75,2670844
 Bosnia and Herzegovina,Europe,Europe and Northern America,1951,24.73,2714971
 Bosnia and Herzegovina,Europe,Europe and Northern America,1952,24.71,2761264
@@ -6991,462 +6991,462 @@ China,Asia,Eastern and South-Eastern Asia,2098,54.81,789952827
 China,Asia,Eastern and South-Eastern Asia,2099,54.86,780587802
 China,Asia,Eastern and South-Eastern Asia,2100,54.9,771301056
 China,Asia,Eastern and South-Eastern Asia,2101,54.94,762045484
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1950,25.33,1933854
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1951,25.18,2027195
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1952,25.07,2123812
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1953,24.98,2223382
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1954,24.93,2326638
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1955,24.89,2434307
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1956,24.87,2546667
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1957,24.83,2665918
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1958,24.8,2791014
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1959,24.78,2920370
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1960,24.81,3049730
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1961,24.89,3179612
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1962,24.94,3283905
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1963,25.03,3378470
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1964,25.15,3470236
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1965,25.31,3559290
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1966,25.51,3644768
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1967,25.76,3724562
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1968,26.04,3799793
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1969,26.37,3868293
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1970,26.75,3928480
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1971,27.17,3981663
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1972,27.46,4075547
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1973,27.71,4181120
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1974,27.97,4288388
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1975,28.24,4397157
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1976,28.53,4505282
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1977,28.82,4612463
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1978,29.14,4717343
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1979,29.47,4820253
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1980,29.79,4925252
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1981,30.12,5031837
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1982,30.41,5123647
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1983,30.69,5210163
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1984,30.98,5294091
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1985,31.31,5373051
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1986,31.65,5450309
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1987,32,5535273
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1988,32.35,5621793
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1989,32.69,5709440
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1990,33.04,5795976
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1991,33.39,5881171
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1992,33.75,5965723
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1993,34.11,6049648
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1994,34.5,6129968
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1995,34.91,6207446
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1996,35.34,6280272
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1997,35.58,6386615
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1998,35.82,6495857
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1999,36.13,6596258
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2000,36.5,6687671
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2001,36.91,6774719
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2002,37.32,6828364
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2003,37.73,6869330
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2004,38.18,6903583
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2005,38.66,6928414
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2006,39.17,6945335
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2007,39.63,6975854
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2008,39.98,7027057
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2009,40.35,7074297
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2010,40.75,7114893
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2011,41.18,7149982
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2012,41.52,7200747
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2013,41.78,7267373
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2014,42.07,7326280
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2015,42.41,7378086
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2016,42.79,7421591
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2017,43.1,7450263
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2018,43.45,7472774
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2019,43.83,7490336
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2020,44.22,7501907
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2021,44.66,7500008
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2022,45.15,7489149
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2023,45.56,7488581
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2024,46,7494636
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2025,46.44,7498727
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2026,46.88,7500855
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2027,47.31,7501068
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2028,47.74,7499349
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2029,48.17,7495577
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2030,48.6,7489771
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2031,49.02,7482003
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2032,49.45,7471755
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2033,49.87,7459399
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2034,50.29,7444905
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2035,50.7,7428511
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2036,51.1,7410462
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2037,51.5,7390469
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2038,51.88,7369023
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2039,52.25,7345868
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2040,52.61,7321213
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2041,52.95,7295063
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2042,53.28,7267118
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2043,53.58,7237740
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2044,53.87,7207061
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2045,54.14,7175112
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2046,54.39,7141747
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2047,54.62,7107168
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2048,54.83,7071173
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2049,55.02,7034008
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2050,55.19,6995371
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2051,55.36,6955411
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2052,55.51,6913750
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2053,55.65,6870361
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2054,55.79,6825334
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2055,55.91,6778874
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2056,56.03,6730887
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2057,56.15,6681454
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2058,56.27,6631195
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2059,56.37,6579946
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2060,56.48,6528037
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2061,56.58,6475507
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2062,56.68,6422811
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2063,56.77,6370140
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2064,56.86,6317282
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2065,56.93,6264876
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2066,57.01,6212578
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2067,57.08,6160660
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2068,57.14,6108819
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2069,57.19,6057169
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2070,57.24,6005968
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2071,57.27,5955100
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2072,57.3,5904534
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2073,57.31,5854352
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2074,57.32,5804844
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2075,57.31,5755677
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2076,57.29,5707144
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2077,57.25,5659261
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2078,57.21,5611933
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2079,57.15,5565248
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2080,57.08,5519454
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2081,57,5474498
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2082,56.91,5430561
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2083,56.81,5387804
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2084,56.71,5346246
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2085,56.6,5306014
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2086,56.49,5266803
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2087,56.38,5228863
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2088,56.27,5192246
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2089,56.16,5157021
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2090,56.06,5123136
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2091,55.96,5090699
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2092,55.87,5059531
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2093,55.79,5029814
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2094,55.71,5001562
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2095,55.65,4974770
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2096,55.59,4949363
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2097,55.54,4925445
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2098,55.49,4903033
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2099,55.45,4881882
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2100,55.42,4861902
-China, Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2101,55.39,4842980
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1950,27.46,193635
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1951,27.04,200041
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1952,26.75,200981
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1953,26.57,200677
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1954,26.5,199319
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1955,26.48,197144
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1956,26.5,194370
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1957,26.52,191071
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1958,26.55,187327
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1959,26.55,183254
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1960,26.52,178986
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1961,26.41,175042
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1962,26.06,182301
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1963,25.76,189777
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1964,25.52,197459
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1965,25.34,205301
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1966,25.21,213254
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1967,25.14,221209
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1968,25.13,229093
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1969,25.21,236765
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1970,25.36,244067
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1971,25.62,250501
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1972,26.24,249162
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1973,26.81,248177
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1974,27.34,247498
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1975,27.82,247062
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1976,28.28,246777
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1977,28.71,246544
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1978,29.14,246266
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1979,29.57,245831
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1980,29.98,245378
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1981,30.34,245286
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1982,30.36,252104
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1983,30.29,261281
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1984,30.19,271225
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1985,30.08,281957
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1986,29.95,293444
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1987,29.84,305538
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1988,29.75,318077
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1989,29.7,330880
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1990,29.7,343792
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1991,29.77,356662
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1992,29.9,368119
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1993,30.13,376620
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1994,30.4,384805
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1995,30.7,392754
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1996,31.03,400528
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1997,31.39,408066
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1998,31.79,415333
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,1999,32.22,422219
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2000,32.68,428817
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2001,33.17,434974
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2002,33.62,443270
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2003,33.96,456060
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2004,34.31,469006
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2005,34.67,482053
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2006,35.05,495185
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2007,35.44,508540
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2008,35.83,522120
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2009,36.23,535957
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2010,36.62,550085
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2011,37.02,564509
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2012,37.35,577497
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2013,37.6,588036
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2014,37.85,598711
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2015,38.1,609623
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2016,38.34,620855
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2017,38.57,632522
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2018,38.78,644696
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2019,38.99,657286
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2020,39.2,670019
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2021,39.43,682547
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2022,39.81,690667
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2023,40.17,699670
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2024,40.51,708629
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2025,40.86,717536
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2026,41.2,726307
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2027,41.54,734913
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2028,41.89,743339
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2029,42.24,751552
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2030,42.59,759516
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2031,42.94,767226
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2032,43.29,774690
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2033,43.65,781870
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2034,44.01,788795
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2035,44.36,795455
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2036,44.71,801905
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2037,45.05,808134
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2038,45.39,814166
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2039,45.71,820060
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2040,46.02,825838
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2041,46.31,831497
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2042,46.59,837079
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2043,46.84,842593
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2044,47.08,848067
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2045,47.3,853485
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2046,47.5,858851
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2047,47.68,864122
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2048,47.84,869316
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2049,47.99,874375
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2050,48.13,879272
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2051,48.26,884060
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2052,48.37,888741
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2053,48.48,893274
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2054,48.58,897660
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2055,48.67,901895
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2056,48.76,905985
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2057,48.85,909937
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2058,48.93,913766
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2059,49.01,917463
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2060,49.09,920999
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2061,49.17,924396
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2062,49.25,927694
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2063,49.32,930885
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2064,49.4,934000
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2065,49.48,937029
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2066,49.55,939938
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2067,49.62,942779
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2068,49.69,945561
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2069,49.75,948265
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2070,49.81,950935
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2071,49.86,953572
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2072,49.91,956101
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2073,49.94,958643
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2074,49.96,961102
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2075,49.98,963512
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2076,49.98,965873
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2077,49.98,968167
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2078,49.96,970407
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2079,49.94,972613
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2080,49.9,974768
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2081,49.86,976913
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2082,49.81,978991
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2083,49.75,981068
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2084,49.69,983112
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2085,49.62,985144
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2086,49.56,987199
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2087,49.49,989305
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2088,49.42,991503
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2089,49.36,993788
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2090,49.3,996215
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2091,49.24,998742
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2092,49.2,1001408
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2093,49.16,1004275
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2094,49.13,1007289
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2095,49.11,1010475
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2096,49.1,1013815
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2097,49.11,1017343
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2098,49.12,1021064
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2099,49.14,1024969
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2100,49.17,1029062
-China, Macao SAR,Asia,Eastern and South-Eastern Asia,2101,49.2,1033306
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1950,22.43,7468442
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1951,22.39,7777818
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1952,22.32,8091559
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1953,22.24,8410518
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1954,22.15,8733744
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1955,22.07,9061808
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1956,22,9397117
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1957,21.95,9736982
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1958,21.92,10081924
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1959,21.92,10432003
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1960,21.95,10793543
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1961,22,11172750
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1962,22.08,11570950
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1963,22.16,11987153
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1964,22.27,12413144
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1965,22.4,12848748
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1966,22.54,13292667
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1967,22.71,13739133
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1968,22.89,14096528
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1969,23.09,14445697
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1970,23.31,14788778
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1971,23.56,15126961
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1972,23.83,15457168
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1973,24.11,15777660
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1974,24.41,16090030
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1975,24.71,16397780
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1976,25.01,16705768
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1977,25.31,17015875
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1978,25.6,17327090
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1979,25.9,17638678
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1980,26.19,17948252
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1981,26.49,18252309
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1982,26.79,18548803
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1983,27.1,18836945
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1984,27.42,19115262
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1985,27.75,19383239
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1986,28.09,19640513
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1987,28.45,19883067
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1988,28.82,20108795
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1989,29.21,20313927
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1990,29.63,20494844
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1991,30.01,20677504
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1992,30.35,20863736
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1993,30.7,21040709
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1994,31.04,21210726
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1995,31.39,21376148
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1996,31.72,21535478
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1997,32.05,21689381
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1998,32.38,21840306
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1999,32.71,21987037
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2000,33.03,22127391
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2001,33.36,22262071
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2002,33.76,22404179
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2003,34.17,22535053
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2004,34.59,22652309
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2005,35.02,22753889
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2006,35.46,22838723
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2007,35.92,22911226
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2008,36.39,22973391
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2009,36.87,23023250
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2010,37.35,23064914
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2011,37.83,23101251
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2012,38.26,23184890
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2013,38.67,23283227
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2014,39.08,23377440
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2015,39.48,23467585
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2016,39.87,23556686
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2017,40.27,23632256
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2018,40.68,23697792
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2019,41.1,23754579
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2020,41.53,23800896
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2021,41.96,23842033
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2022,42.38,23877791
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2023,42.79,23908998
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2024,43.2,23937555
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2025,43.6,23962872
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2026,44,23985190
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2027,44.39,24002971
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2028,44.77,24017014
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2029,45.15,24025872
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2030,45.52,24029291
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2031,45.88,24026706
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2032,46.24,24017139
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2033,46.6,24001131
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2034,46.95,23976891
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2035,47.29,23944868
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2036,47.63,23903921
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2037,47.97,23853589
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2038,48.29,23794911
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2039,48.62,23727163
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2040,48.93,23650936
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2041,49.24,23566524
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2042,49.54,23473761
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2043,49.83,23373492
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2044,50.11,23266697
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2045,50.37,23154231
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2046,50.62,23036221
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2047,50.86,22912582
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2048,51.08,22785009
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2049,51.29,22652138
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2050,51.49,22515465
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2051,51.68,22375588
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2052,51.85,22233097
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2053,52.01,22087687
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2054,52.15,21940558
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2055,52.29,21791175
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2056,52.41,21639589
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2057,52.53,21485968
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2058,52.64,21330286
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2059,52.74,21172806
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2060,52.83,21013637
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2061,52.91,20853061
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2062,52.99,20691664
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2063,53.05,20528957
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2064,53.11,20365586
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2065,53.16,20201817
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2066,53.21,20036995
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2067,53.24,19871286
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2068,53.27,19705034
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2069,53.29,19537878
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2070,53.3,19369622
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2071,53.31,19201545
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2072,53.31,19033166
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2073,53.3,18864519
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2074,53.29,18695340
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2075,53.27,18525979
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2076,53.25,18357019
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2077,53.22,18189675
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2078,53.18,18024012
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2079,53.14,17860474
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2080,53.09,17699599
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2081,53.05,17541369
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2082,53,17386690
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2083,52.94,17235389
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2084,52.89,17087573
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2085,52.84,16944183
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2086,52.78,16805008
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2087,52.72,16669487
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2088,52.67,16538582
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2089,52.61,16411634
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2090,52.56,16288717
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2091,52.5,16170561
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2092,52.45,16055716
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2093,52.39,15944944
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2094,52.34,15838509
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2095,52.3,15736243
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2096,52.26,15637590
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2097,52.22,15542770
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2098,52.19,15451749
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2099,52.16,15365120
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2100,52.14,15281970
-China, Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2101,52.13,15201953
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1950,25.33,1933854
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1951,25.18,2027195
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1952,25.07,2123812
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1953,24.98,2223382
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1954,24.93,2326638
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1955,24.89,2434307
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1956,24.87,2546667
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1957,24.83,2665918
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1958,24.8,2791014
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1959,24.78,2920370
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1960,24.81,3049730
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1961,24.89,3179612
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1962,24.94,3283905
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1963,25.03,3378470
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1964,25.15,3470236
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1965,25.31,3559290
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1966,25.51,3644768
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1967,25.76,3724562
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1968,26.04,3799793
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1969,26.37,3868293
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1970,26.75,3928480
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1971,27.17,3981663
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1972,27.46,4075547
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1973,27.71,4181120
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1974,27.97,4288388
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1975,28.24,4397157
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1976,28.53,4505282
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1977,28.82,4612463
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1978,29.14,4717343
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1979,29.47,4820253
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1980,29.79,4925252
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1981,30.12,5031837
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1982,30.41,5123647
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1983,30.69,5210163
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1984,30.98,5294091
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1985,31.31,5373051
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1986,31.65,5450309
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1987,32,5535273
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1988,32.35,5621793
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1989,32.69,5709440
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1990,33.04,5795976
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1991,33.39,5881171
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1992,33.75,5965723
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1993,34.11,6049648
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1994,34.5,6129968
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1995,34.91,6207446
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1996,35.34,6280272
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1997,35.58,6386615
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1998,35.82,6495857
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,1999,36.13,6596258
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2000,36.5,6687671
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2001,36.91,6774719
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2002,37.32,6828364
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2003,37.73,6869330
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2004,38.18,6903583
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2005,38.66,6928414
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2006,39.17,6945335
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2007,39.63,6975854
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2008,39.98,7027057
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2009,40.35,7074297
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2010,40.75,7114893
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2011,41.18,7149982
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2012,41.52,7200747
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2013,41.78,7267373
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2014,42.07,7326280
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2015,42.41,7378086
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2016,42.79,7421591
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2017,43.1,7450263
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2018,43.45,7472774
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2019,43.83,7490336
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2020,44.22,7501907
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2021,44.66,7500008
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2022,45.15,7489149
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2023,45.56,7488581
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2024,46,7494636
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2025,46.44,7498727
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2026,46.88,7500855
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2027,47.31,7501068
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2028,47.74,7499349
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2029,48.17,7495577
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2030,48.6,7489771
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2031,49.02,7482003
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2032,49.45,7471755
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2033,49.87,7459399
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2034,50.29,7444905
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2035,50.7,7428511
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2036,51.1,7410462
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2037,51.5,7390469
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2038,51.88,7369023
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2039,52.25,7345868
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2040,52.61,7321213
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2041,52.95,7295063
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2042,53.28,7267118
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2043,53.58,7237740
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2044,53.87,7207061
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2045,54.14,7175112
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2046,54.39,7141747
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2047,54.62,7107168
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2048,54.83,7071173
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2049,55.02,7034008
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2050,55.19,6995371
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2051,55.36,6955411
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2052,55.51,6913750
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2053,55.65,6870361
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2054,55.79,6825334
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2055,55.91,6778874
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2056,56.03,6730887
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2057,56.15,6681454
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2058,56.27,6631195
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2059,56.37,6579946
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2060,56.48,6528037
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2061,56.58,6475507
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2062,56.68,6422811
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2063,56.77,6370140
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2064,56.86,6317282
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2065,56.93,6264876
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2066,57.01,6212578
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2067,57.08,6160660
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2068,57.14,6108819
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2069,57.19,6057169
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2070,57.24,6005968
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2071,57.27,5955100
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2072,57.3,5904534
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2073,57.31,5854352
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2074,57.32,5804844
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2075,57.31,5755677
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2076,57.29,5707144
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2077,57.25,5659261
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2078,57.21,5611933
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2079,57.15,5565248
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2080,57.08,5519454
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2081,57,5474498
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2082,56.91,5430561
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2083,56.81,5387804
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2084,56.71,5346246
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2085,56.6,5306014
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2086,56.49,5266803
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2087,56.38,5228863
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2088,56.27,5192246
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2089,56.16,5157021
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2090,56.06,5123136
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2091,55.96,5090699
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2092,55.87,5059531
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2093,55.79,5029814
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2094,55.71,5001562
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2095,55.65,4974770
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2096,55.59,4949363
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2097,55.54,4925445
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2098,55.49,4903033
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2099,55.45,4881882
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2100,55.42,4861902
+China - Hong Kong SAR,Asia,Eastern and South-Eastern Asia,2101,55.39,4842980
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1950,27.46,193635
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1951,27.04,200041
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1952,26.75,200981
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1953,26.57,200677
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1954,26.5,199319
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1955,26.48,197144
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1956,26.5,194370
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1957,26.52,191071
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1958,26.55,187327
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1959,26.55,183254
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1960,26.52,178986
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1961,26.41,175042
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1962,26.06,182301
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1963,25.76,189777
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1964,25.52,197459
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1965,25.34,205301
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1966,25.21,213254
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1967,25.14,221209
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1968,25.13,229093
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1969,25.21,236765
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1970,25.36,244067
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1971,25.62,250501
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1972,26.24,249162
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1973,26.81,248177
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1974,27.34,247498
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1975,27.82,247062
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1976,28.28,246777
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1977,28.71,246544
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1978,29.14,246266
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1979,29.57,245831
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1980,29.98,245378
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1981,30.34,245286
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1982,30.36,252104
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1983,30.29,261281
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1984,30.19,271225
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1985,30.08,281957
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1986,29.95,293444
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1987,29.84,305538
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1988,29.75,318077
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1989,29.7,330880
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1990,29.7,343792
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1991,29.77,356662
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1992,29.9,368119
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1993,30.13,376620
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1994,30.4,384805
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1995,30.7,392754
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1996,31.03,400528
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1997,31.39,408066
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1998,31.79,415333
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,1999,32.22,422219
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2000,32.68,428817
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2001,33.17,434974
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2002,33.62,443270
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2003,33.96,456060
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2004,34.31,469006
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2005,34.67,482053
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2006,35.05,495185
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2007,35.44,508540
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2008,35.83,522120
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2009,36.23,535957
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2010,36.62,550085
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2011,37.02,564509
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2012,37.35,577497
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2013,37.6,588036
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2014,37.85,598711
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2015,38.1,609623
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2016,38.34,620855
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2017,38.57,632522
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2018,38.78,644696
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2019,38.99,657286
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2020,39.2,670019
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2021,39.43,682547
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2022,39.81,690667
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2023,40.17,699670
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2024,40.51,708629
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2025,40.86,717536
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2026,41.2,726307
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2027,41.54,734913
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2028,41.89,743339
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2029,42.24,751552
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2030,42.59,759516
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2031,42.94,767226
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2032,43.29,774690
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2033,43.65,781870
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2034,44.01,788795
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2035,44.36,795455
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2036,44.71,801905
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2037,45.05,808134
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2038,45.39,814166
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2039,45.71,820060
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2040,46.02,825838
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2041,46.31,831497
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2042,46.59,837079
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2043,46.84,842593
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2044,47.08,848067
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2045,47.3,853485
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2046,47.5,858851
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2047,47.68,864122
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2048,47.84,869316
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2049,47.99,874375
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2050,48.13,879272
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2051,48.26,884060
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2052,48.37,888741
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2053,48.48,893274
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2054,48.58,897660
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2055,48.67,901895
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2056,48.76,905985
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2057,48.85,909937
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2058,48.93,913766
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2059,49.01,917463
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2060,49.09,920999
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2061,49.17,924396
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2062,49.25,927694
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2063,49.32,930885
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2064,49.4,934000
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2065,49.48,937029
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2066,49.55,939938
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2067,49.62,942779
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2068,49.69,945561
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2069,49.75,948265
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2070,49.81,950935
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2071,49.86,953572
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2072,49.91,956101
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2073,49.94,958643
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2074,49.96,961102
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2075,49.98,963512
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2076,49.98,965873
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2077,49.98,968167
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2078,49.96,970407
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2079,49.94,972613
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2080,49.9,974768
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2081,49.86,976913
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2082,49.81,978991
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2083,49.75,981068
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2084,49.69,983112
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2085,49.62,985144
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2086,49.56,987199
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2087,49.49,989305
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2088,49.42,991503
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2089,49.36,993788
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2090,49.3,996215
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2091,49.24,998742
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2092,49.2,1001408
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2093,49.16,1004275
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2094,49.13,1007289
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2095,49.11,1010475
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2096,49.1,1013815
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2097,49.11,1017343
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2098,49.12,1021064
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2099,49.14,1024969
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2100,49.17,1029062
+China - Macao SAR,Asia,Eastern and South-Eastern Asia,2101,49.2,1033306
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1950,22.43,7468442
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1951,22.39,7777818
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1952,22.32,8091559
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1953,22.24,8410518
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1954,22.15,8733744
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1955,22.07,9061808
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1956,22,9397117
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1957,21.95,9736982
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1958,21.92,10081924
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1959,21.92,10432003
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1960,21.95,10793543
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1961,22,11172750
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1962,22.08,11570950
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1963,22.16,11987153
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1964,22.27,12413144
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1965,22.4,12848748
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1966,22.54,13292667
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1967,22.71,13739133
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1968,22.89,14096528
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1969,23.09,14445697
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1970,23.31,14788778
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1971,23.56,15126961
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1972,23.83,15457168
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1973,24.11,15777660
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1974,24.41,16090030
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1975,24.71,16397780
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1976,25.01,16705768
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1977,25.31,17015875
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1978,25.6,17327090
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1979,25.9,17638678
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1980,26.19,17948252
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1981,26.49,18252309
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1982,26.79,18548803
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1983,27.1,18836945
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1984,27.42,19115262
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1985,27.75,19383239
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1986,28.09,19640513
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1987,28.45,19883067
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1988,28.82,20108795
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1989,29.21,20313927
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1990,29.63,20494844
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1991,30.01,20677504
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1992,30.35,20863736
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1993,30.7,21040709
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1994,31.04,21210726
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1995,31.39,21376148
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1996,31.72,21535478
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1997,32.05,21689381
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1998,32.38,21840306
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,1999,32.71,21987037
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2000,33.03,22127391
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2001,33.36,22262071
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2002,33.76,22404179
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2003,34.17,22535053
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2004,34.59,22652309
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2005,35.02,22753889
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2006,35.46,22838723
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2007,35.92,22911226
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2008,36.39,22973391
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2009,36.87,23023250
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2010,37.35,23064914
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2011,37.83,23101251
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2012,38.26,23184890
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2013,38.67,23283227
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2014,39.08,23377440
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2015,39.48,23467585
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2016,39.87,23556686
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2017,40.27,23632256
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2018,40.68,23697792
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2019,41.1,23754579
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2020,41.53,23800896
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2021,41.96,23842033
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2022,42.38,23877791
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2023,42.79,23908998
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2024,43.2,23937555
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2025,43.6,23962872
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2026,44,23985190
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2027,44.39,24002971
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2028,44.77,24017014
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2029,45.15,24025872
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2030,45.52,24029291
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2031,45.88,24026706
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2032,46.24,24017139
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2033,46.6,24001131
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2034,46.95,23976891
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2035,47.29,23944868
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2036,47.63,23903921
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2037,47.97,23853589
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2038,48.29,23794911
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2039,48.62,23727163
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2040,48.93,23650936
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2041,49.24,23566524
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2042,49.54,23473761
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2043,49.83,23373492
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2044,50.11,23266697
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2045,50.37,23154231
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2046,50.62,23036221
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2047,50.86,22912582
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2048,51.08,22785009
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2049,51.29,22652138
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2050,51.49,22515465
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2051,51.68,22375588
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2052,51.85,22233097
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2053,52.01,22087687
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2054,52.15,21940558
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2055,52.29,21791175
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2056,52.41,21639589
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2057,52.53,21485968
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2058,52.64,21330286
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2059,52.74,21172806
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2060,52.83,21013637
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2061,52.91,20853061
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2062,52.99,20691664
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2063,53.05,20528957
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2064,53.11,20365586
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2065,53.16,20201817
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2066,53.21,20036995
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2067,53.24,19871286
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2068,53.27,19705034
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2069,53.29,19537878
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2070,53.3,19369622
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2071,53.31,19201545
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2072,53.31,19033166
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2073,53.3,18864519
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2074,53.29,18695340
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2075,53.27,18525979
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2076,53.25,18357019
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2077,53.22,18189675
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2078,53.18,18024012
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2079,53.14,17860474
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2080,53.09,17699599
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2081,53.05,17541369
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2082,53,17386690
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2083,52.94,17235389
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2084,52.89,17087573
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2085,52.84,16944183
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2086,52.78,16805008
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2087,52.72,16669487
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2088,52.67,16538582
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2089,52.61,16411634
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2090,52.56,16288717
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2091,52.5,16170561
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2092,52.45,16055716
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2093,52.39,15944944
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2094,52.34,15838509
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2095,52.3,15736243
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2096,52.26,15637590
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2097,52.22,15542770
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2098,52.19,15451749
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2099,52.16,15365120
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2100,52.14,15281970
+China - Taiwan Province of China,Asia,Eastern and South-Eastern Asia,2101,52.13,15201953
 Colombia,Latin America and the Caribbean,Latin America and the Caribbean,1950,22.56,11614844
 Colombia,Latin America and the Caribbean,Latin America and the Caribbean,1951,22.47,11924652
 Colombia,Latin America and the Caribbean,Latin America and the Caribbean,1952,22.39,12249463
