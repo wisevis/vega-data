@@ -1,4 +1,4 @@
-﻿NUTS3,NUTS Code,PosX,PosY,Rotation,LabelX,LabelY,LabelRot,Area,Humans,Bovinos,Suínos,Ovinos,Caprinos,Equídeos,Aves,Coelhos,Colmeias,Density
+﻿NUTS3,NUTS_Code,PosX,PosY,Rotation,LabelX,LabelY,LabelRot,Area,Humanos,Bovinos,Suinos,Ovinos,Caprinos,Equideos,Aves,Coelhos,Colmeias,Density
 Alto Minho,111: Alto Minho,523,125,291.5,538,130,291,2218.84,232674,27927,2588,34438,11277,2412,260701,53243,18695,105.9
 Ave,119: Ave,506,200,111.6,530,210,291.6,1451.36,420418,32034,19725,13142,9205,1632,703890,68423,12592,289.6
 AM Porto,11A: Área Metropolitana do Porto,474,250,291.5,495,240,291.5,2041.27,1779994,95213,17205,10121,6507,904,537479,54594,17574,866.9
