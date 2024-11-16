@@ -1,4 +1,4 @@
-﻿Cod;Country;Region;TotalPop;MalePop;FamalePop;Area;RadiusTotal;RadiusMale;RadiusFemale;Density;Column1;Random;RandCountry;CodNum
+Cod;Country;Region;TotalPop;MalePop;FamalePop;Area;RadiusTotal;RadiusMale;RadiusFemale;Density;Column1;Random;RandCountry;CodNum
 ES300;Spain;Madrid;6726640.00,3221401.00,3505239.00,8031.00,1463.27,1012.62,1056.29,837.58,0.92,0.09,30.59,30.00 
 ES511;Spain;Barcelona;5702262.00,2785890.00,2916372.00,7729.00,1347.25,941.69,963.49,737.77,0.96,0.64,31.14,30.00 
 ITI43;Italy;Roma;4216874.00,2028829.00,2188045.00,5363.00,1158.56,803.61,834.55,786.29,0.93,0.16,44.66,44.00 
