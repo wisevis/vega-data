@@ -1,0 +1,469 @@
+﻿NUTS3,Idade,Homens,Mulheres
+Alto Minho,0,3964,3816
+Alto Minho,5,4395,4100
+Alto Minho,10,4797,4713
+Alto Minho,15,5447,5210
+Alto Minho,20,5958,5659
+Alto Minho,25,6056,5432
+Alto Minho,30,5848,5667
+Alto Minho,35,6291,6253
+Alto Minho,40,7334,7846
+Alto Minho,45,8236,8860
+Alto Minho,50,8087,8591
+Alto Minho,55,7642,8943
+Alto Minho,60,8016,9252
+Alto Minho,65,7955,9192
+Alto Minho,70,7194,8619
+Alto Minho,75,6046,7919
+Alto Minho,80,4106,5924
+Alto Minho,85,3684,7163
+Cávado,0,8969,8181
+Cávado,5,9388,8923
+Cávado,10,10254,9842
+Cávado,15,11485,10849
+Cávado,20,12755,12270
+Cávado,25,12818,12247
+Cávado,30,12762,12514
+Cávado,35,13156,13496
+Cávado,40,14766,15922
+Cávado,45,16449,18133
+Cávado,50,15867,17643
+Cávado,55,14874,16719
+Cávado,60,14208,15728
+Cávado,65,12340,13921
+Cávado,70,10432,12004
+Cávado,75,7765,9567
+Cávado,80,4740,6618
+Cávado,85,4368,7860
+Ave,0,8366,7807
+Ave,5,8684,8209
+Ave,10,9433,8739
+Ave,15,10625,10040
+Ave,20,12205,11495
+Ave,25,12462,11472
+Ave,30,12064,11653
+Ave,35,12227,12391
+Ave,40,13894,14807
+Ave,45,15959,17110
+Ave,50,16013,17344
+Ave,55,15935,17377
+Ave,60,14913,16363
+Ave,65,13700,15398
+Ave,70,11182,12762
+Ave,75,8026,10168
+Ave,80,4873,6750
+Ave,85,4230,7788
+Área Metropolitana do Porto,0,35793,33826
+Área Metropolitana do Porto,5,37702,36042
+Área Metropolitana do Porto,10,40749,39578
+Área Metropolitana do Porto,15,44381,42953
+Área Metropolitana do Porto,20,49815,48214
+Área Metropolitana do Porto,25,50963,49154
+Área Metropolitana do Porto,30,52981,52905
+Área Metropolitana do Porto,35,53382,55291
+Área Metropolitana do Porto,40,59803,63868
+Área Metropolitana do Porto,45,66840,72778
+Área Metropolitana do Porto,50,64590,72584
+Área Metropolitana do Porto,55,62344,72036
+Área Metropolitana do Porto,60,59817,69549
+Área Metropolitana do Porto,65,53821,63829
+Área Metropolitana do Porto,70,47150,57242
+Área Metropolitana do Porto,75,36458,47108
+Área Metropolitana do Porto,80,22719,31976
+Área Metropolitana do Porto,85,19024,35399
+Alto Tâmega e Barroso,0,1075,1038
+Alto Tâmega e Barroso,5,1325,1231
+Alto Tâmega e Barroso,10,1430,1360
+Alto Tâmega e Barroso,15,1628,1624
+Alto Tâmega e Barroso,20,1854,1833
+Alto Tâmega e Barroso,25,1730,1631
+Alto Tâmega e Barroso,30,1711,1665
+Alto Tâmega e Barroso,35,1851,1907
+Alto Tâmega e Barroso,40,2197,2283
+Alto Tâmega e Barroso,45,2626,2664
+Alto Tâmega e Barroso,50,2696,2616
+Alto Tâmega e Barroso,55,2923,3241
+Alto Tâmega e Barroso,60,3410,3723
+Alto Tâmega e Barroso,65,3653,3828
+Alto Tâmega e Barroso,70,3374,3703
+Alto Tâmega e Barroso,75,2835,3353
+Alto Tâmega e Barroso,80,1849,2665
+Alto Tâmega e Barroso,85,1849,3288
+Tâmega e Sousa,0,7836,7203
+Tâmega e Sousa,5,8458,7936
+Tâmega e Sousa,10,9416,9112
+Tâmega e Sousa,15,11165,10655
+Tâmega e Sousa,20,12949,12216
+Tâmega e Sousa,25,12624,11974
+Tâmega e Sousa,30,11845,11403
+Tâmega e Sousa,35,11699,12096
+Tâmega e Sousa,40,13232,14097
+Tâmega e Sousa,45,15356,16376
+Tâmega e Sousa,50,15727,17186
+Tâmega e Sousa,55,15836,17264
+Tâmega e Sousa,60,15009,16235
+Tâmega e Sousa,65,12270,13945
+Tâmega e Sousa,70,9826,11143
+Tâmega e Sousa,75,7076,8750
+Tâmega e Sousa,80,4299,6249
+Tâmega e Sousa,85,3885,7000
+Douro,0,2738,2761
+Douro,5,3136,3041
+Douro,10,3561,3514
+Douro,15,4127,3921
+Douro,20,4850,4630
+Douro,25,4640,4193
+Douro,30,4214,4146
+Douro,35,4356,4644
+Douro,40,5458,5882
+Douro,45,6276,6541
+Douro,50,6437,6778
+Douro,55,6799,7365
+Douro,60,7432,7959
+Douro,65,6958,7612
+Douro,70,6134,6677
+Douro,75,4649,5992
+Douro,80,3254,4758
+Douro,85,2987,5775
+Terras de Trás-os-Montes,0,1654,1490
+Terras de Trás-os-Montes,5,1710,1651
+Terras de Trás-os-Montes,10,1858,1823
+Terras de Trás-os-Montes,15,2105,1986
+Terras de Trás-os-Montes,20,2534,2528
+Terras de Trás-os-Montes,25,2630,2534
+Terras de Trás-os-Montes,30,2420,2355
+Terras de Trás-os-Montes,35,2471,2560
+Terras de Trás-os-Montes,40,3083,3151
+Terras de Trás-os-Montes,45,3444,3551
+Terras de Trás-os-Montes,50,3490,3561
+Terras de Trás-os-Montes,55,3659,3804
+Terras de Trás-os-Montes,60,4051,4387
+Terras de Trás-os-Montes,65,4334,4696
+Terras de Trás-os-Montes,70,3992,4451
+Terras de Trás-os-Montes,75,3268,3891
+Terras de Trás-os-Montes,80,2562,3204
+Terras de Trás-os-Montes,85,2477,4108
+Região de Aveiro,0,7788,7349
+Região de Aveiro,5,8380,7681
+Região de Aveiro,10,8687,8372
+Região de Aveiro,15,9289,8991
+Região de Aveiro,20,10233,10262
+Região de Aveiro,25,10853,10334
+Região de Aveiro,30,10961,10600
+Região de Aveiro,35,11489,11443
+Região de Aveiro,40,13043,13680
+Região de Aveiro,45,14161,15187
+Região de Aveiro,50,13834,14868
+Região de Aveiro,55,13048,14602
+Região de Aveiro,60,12754,14217
+Região de Aveiro,65,11627,13465
+Região de Aveiro,70,10396,12086
+Região de Aveiro,75,8239,10226
+Região de Aveiro,80,5577,7507
+Região de Aveiro,85,4857,8603
+Região de Coimbra,0,7920,7513
+Região de Coimbra,5,8779,8201
+Região de Coimbra,10,9344,8888
+Região de Coimbra,15,10247,9684
+Região de Coimbra,20,11132,10813
+Região de Coimbra,25,11354,10950
+Região de Coimbra,30,11418,10769
+Região de Coimbra,35,11592,11964
+Região de Coimbra,40,14220,15066
+Região de Coimbra,45,15959,17361
+Região de Coimbra,50,15421,16863
+Região de Coimbra,55,15128,17095
+Região de Coimbra,60,15381,17500
+Região de Coimbra,65,14674,16727
+Região de Coimbra,70,13534,16155
+Região de Coimbra,75,11160,14308
+Região de Coimbra,80,7860,11264
+Região de Coimbra,85,7082,13656
+Região de Leiria,0,5922,5554
+Região de Leiria,5,6188,5988
+Região de Leiria,10,6777,6292
+Região de Leiria,15,7367,7159
+Região de Leiria,20,8111,7712
+Região de Leiria,25,8100,7578
+Região de Leiria,30,8275,7779
+Região de Leiria,35,8183,8295
+Região de Leiria,40,9652,10318
+Região de Leiria,45,10706,11458
+Região de Leiria,50,10276,11152
+Região de Leiria,55,10163,10968
+Região de Leiria,60,9894,11015
+Região de Leiria,65,9466,10271
+Região de Leiria,70,8301,9521
+Região de Leiria,75,6840,8614
+Região de Leiria,80,4899,6608
+Região de Leiria,85,4317,7503
+Viseu Dão Lafões,0,4467,4116
+Viseu Dão Lafões,5,4922,4704
+Viseu Dão Lafões,10,5523,5261
+Viseu Dão Lafões,15,6099,6049
+Viseu Dão Lafões,20,6946,6551
+Viseu Dão Lafões,25,6523,6236
+Viseu Dão Lafões,30,6086,6057
+Viseu Dão Lafões,35,6619,6861
+Viseu Dão Lafões,40,8145,8584
+Viseu Dão Lafões,45,9099,9761
+Viseu Dão Lafões,50,8436,9195
+Viseu Dão Lafões,55,8311,9391
+Viseu Dão Lafões,60,8462,9935
+Viseu Dão Lafões,65,8796,9829
+Viseu Dão Lafões,70,8026,9268
+Viseu Dão Lafões,75,6771,8492
+Viseu Dão Lafões,80,4736,6584
+Viseu Dão Lafões,85,4186,7783
+Beira Baixa,0,1637,1474
+Beira Baixa,5,1808,1671
+Beira Baixa,10,1881,1868
+Beira Baixa,15,2103,2018
+Beira Baixa,20,2390,2171
+Beira Baixa,25,2308,2121
+Beira Baixa,30,2328,2168
+Beira Baixa,35,2448,2495
+Beira Baixa,40,2937,2979
+Beira Baixa,45,3205,3402
+Beira Baixa,50,3257,3457
+Beira Baixa,55,3389,3599
+Beira Baixa,60,3709,3889
+Beira Baixa,65,3747,3893
+Beira Baixa,70,3546,3797
+Beira Baixa,75,2926,3536
+Beira Baixa,80,2108,3085
+Beira Baixa,85,2290,4396
+Beiras e Serra da Estrela,0,3140,3010
+Beiras e Serra da Estrela,5,3482,3328
+Beiras e Serra da Estrela,10,3790,3660
+Beiras e Serra da Estrela,15,4362,4287
+Beiras e Serra da Estrela,20,5024,4762
+Beiras e Serra da Estrela,25,4853,4488
+Beiras e Serra da Estrela,30,4776,4301
+Beiras e Serra da Estrela,35,5173,5052
+Beiras e Serra da Estrela,40,6123,6132
+Beiras e Serra da Estrela,45,6704,7113
+Beiras e Serra da Estrela,50,6897,7122
+Beiras e Serra da Estrela,55,7264,7898
+Beiras e Serra da Estrela,60,7977,8730
+Beiras e Serra da Estrela,65,8371,8843
+Beiras e Serra da Estrela,70,7440,8278
+Beiras e Serra da Estrela,75,5967,7784
+Beiras e Serra da Estrela,80,4443,6229
+Beiras e Serra da Estrela,85,4373,8720
+Oeste,0,8156,7651
+Oeste,5,8479,8229
+Oeste,10,9182,8920
+Oeste,15,10083,9688
+Oeste,20,10784,10319
+Oeste,25,10860,10167
+Oeste,30,10846,10285
+Oeste,35,11138,11267
+Oeste,40,13304,13728
+Oeste,45,14606,15394
+Oeste,50,13647,14813
+Oeste,55,12935,14033
+Oeste,60,12319,13713
+Oeste,65,11513,12909
+Oeste,70,10748,12050
+Oeste,75,8594,10578
+Oeste,80,5923,7978
+Oeste,85,4810,8747
+Médio Tejo,0,3870,3512
+Médio Tejo,5,4200,4027
+Médio Tejo,10,4706,4412
+Médio Tejo,15,5321,5102
+Médio Tejo,20,5777,5475
+Médio Tejo,25,5504,5105
+Médio Tejo,30,5283,4998
+Médio Tejo,35,5525,5663
+Médio Tejo,40,6550,6768
+Médio Tejo,45,7342,7726
+Médio Tejo,50,7240,7980
+Médio Tejo,55,7620,8283
+Médio Tejo,60,7809,8507
+Médio Tejo,65,7289,8120
+Médio Tejo,70,6378,7460
+Médio Tejo,75,5118,6822
+Médio Tejo,80,3854,5731
+Médio Tejo,85,3712,7634
+Lezíria do Tejo,0,4995,4757
+Lezíria do Tejo,5,5320,5223
+Lezíria do Tejo,10,5751,5605
+Lezíria do Tejo,15,6461,6353
+Lezíria do Tejo,20,6957,6432
+Lezíria do Tejo,25,6530,6036
+Lezíria do Tejo,30,6439,6021
+Lezíria do Tejo,35,7051,6795
+Lezíria do Tejo,40,8212,8476
+Lezíria do Tejo,45,9334,9770
+Lezíria do Tejo,50,8988,9257
+Lezíria do Tejo,55,8114,8938
+Lezíria do Tejo,60,7955,8895
+Lezíria do Tejo,65,7325,8418
+Lezíria do Tejo,70,6698,7957
+Lezíria do Tejo,75,5608,7176
+Lezíria do Tejo,80,4012,5782
+Lezíria do Tejo,85,3405,6718
+Grande Lisboa,0,52547,49761
+Grande Lisboa,5,51418,48804
+Grande Lisboa,10,53874,52038
+Grande Lisboa,15,55992,54236
+Grande Lisboa,20,57742,56770
+Grande Lisboa,25,60048,59113
+Grande Lisboa,30,66516,68436
+Grande Lisboa,35,66113,69063
+Grande Lisboa,40,71453,77958
+Grande Lisboa,45,79309,88968
+Grande Lisboa,50,71845,82169
+Grande Lisboa,55,63636,75573
+Grande Lisboa,60,58272,70439
+Grande Lisboa,65,52128,66022
+Grande Lisboa,70,48014,63529
+Grande Lisboa,75,40741,56692
+Grande Lisboa,80,27688,40434
+Grande Lisboa,85,22997,46240
+Península de Setúbal,0,19682,18742
+Península de Setúbal,5,19885,19092
+Península de Setúbal,10,21741,20945
+Península de Setúbal,15,23157,21992
+Península de Setúbal,20,22836,22571
+Península de Setúbal,25,21829,21763
+Península de Setúbal,30,22804,23712
+Península de Setúbal,35,23840,25824
+Península de Setúbal,40,28220,30429
+Península de Setúbal,45,32937,36080
+Península de Setúbal,50,28902,31692
+Península de Setúbal,55,24824,28860
+Península de Setúbal,60,23341,28161
+Península de Setúbal,65,22370,27568
+Península de Setúbal,70,20848,26008
+Península de Setúbal,75,17955,22996
+Península de Setúbal,80,11736,15752
+Península de Setúbal,85,9076,16429
+Alentejo Litoral,0,2053,1905
+Alentejo Litoral,5,1977,1839
+Alentejo Litoral,10,2171,2164
+Alentejo Litoral,15,2264,2165
+Alentejo Litoral,20,2524,2076
+Alentejo Litoral,25,3308,2100
+Alentejo Litoral,30,3678,2469
+Alentejo Litoral,35,3892,2825
+Alentejo Litoral,40,4090,3455
+Alentejo Litoral,45,4108,3668
+Alentejo Litoral,50,3448,3067
+Alentejo Litoral,55,3096,3182
+Alentejo Litoral,60,3480,3672
+Alentejo Litoral,65,3467,3637
+Alentejo Litoral,70,3030,3066
+Alentejo Litoral,75,2373,2846
+Alentejo Litoral,80,1650,2255
+Alentejo Litoral,85,1634,2754
+Baixo Alentejo,0,2494,2347
+Baixo Alentejo,5,2514,2338
+Baixo Alentejo,10,2688,2533
+Baixo Alentejo,15,2689,2814
+Baixo Alentejo,20,3109,2830
+Baixo Alentejo,25,2987,2544
+Baixo Alentejo,30,3084,2623
+Baixo Alentejo,35,3261,2925
+Baixo Alentejo,40,3764,3664
+Baixo Alentejo,45,4176,3989
+Baixo Alentejo,50,4019,4029
+Baixo Alentejo,55,4234,4192
+Baixo Alentejo,60,4214,4280
+Baixo Alentejo,65,3926,4177
+Baixo Alentejo,70,3446,3848
+Baixo Alentejo,75,2703,3475
+Baixo Alentejo,80,1799,2785
+Baixo Alentejo,85,1686,3571
+Alto Alentejo,0,1819,1796
+Alto Alentejo,5,2077,2036
+Alto Alentejo,10,2274,2234
+Alto Alentejo,15,2492,2356
+Alto Alentejo,20,2645,2558
+Alto Alentejo,25,2400,2326
+Alto Alentejo,30,2333,2245
+Alto Alentejo,35,2552,2588
+Alto Alentejo,40,3078,3272
+Alto Alentejo,45,3565,3814
+Alto Alentejo,50,3626,3742
+Alto Alentejo,55,3577,3878
+Alto Alentejo,60,3810,4092
+Alto Alentejo,65,3512,3829
+Alto Alentejo,70,3071,3625
+Alto Alentejo,75,2668,3401
+Alto Alentejo,80,1824,2824
+Alto Alentejo,85,2176,3966
+Alentejo Central,0,3025,2837
+Alentejo Central,5,3215,2994
+Alentejo Central,10,3474,3250
+Alentejo Central,15,3756,3521
+Alentejo Central,20,4001,3751
+Alentejo Central,25,3788,3569
+Alentejo Central,30,3835,3638
+Alentejo Central,35,4181,4154
+Alentejo Central,40,4918,5002
+Alentejo Central,45,5630,6014
+Alentejo Central,50,5329,5760
+Alentejo Central,55,5397,5710
+Alentejo Central,60,5403,5806
+Alentejo Central,65,4853,5390
+Alentejo Central,70,4309,5075
+Alentejo Central,75,3308,4549
+Alentejo Central,80,2535,3739
+Alentejo Central,85,2871,4888
+Algarve,0,10917,10570
+Algarve,5,11205,10770
+Algarve,10,11832,11198
+Algarve,15,12506,11887
+Algarve,20,12303,11602
+Algarve,25,12492,11579
+Algarve,30,13352,13112
+Algarve,35,14564,14717
+Algarve,40,16391,17662
+Algarve,45,18240,19448
+Algarve,50,16778,18315
+Algarve,55,15589,17584
+Algarve,60,15376,17364
+Algarve,65,15288,16605
+Algarve,70,14080,15154
+Algarve,75,11189,12363
+Algarve,80,7099,8925
+Algarve,85,5842,10224
+Região Autónoma dos Açores,0,5475,5131
+Região Autónoma dos Açores,5,5748,5396
+Região Autónoma dos Açores,10,6450,6226
+Região Autónoma dos Açores,15,6932,6655
+Região Autónoma dos Açores,20,7442,7125
+Região Autónoma dos Açores,25,7300,7204
+Região Autónoma dos Açores,30,7493,7588
+Região Autónoma dos Açores,35,8348,8419
+Região Autónoma dos Açores,40,9405,9561
+Região Autónoma dos Açores,45,9799,10109
+Região Autónoma dos Açores,50,8749,8891
+Região Autónoma dos Açores,55,8395,8684
+Região Autónoma dos Açores,60,7963,8439
+Região Autónoma dos Açores,65,6413,7055
+Região Autónoma dos Açores,70,5153,5850
+Região Autónoma dos Açores,75,3299,4594
+Região Autónoma dos Açores,80,1911,3034
+Região Autónoma dos Açores,85,1361,3428
+Região Autónoma da Madeira,0,4819,4504
+Região Autónoma da Madeira,5,5226,5105
+Região Autónoma da Madeira,10,5899,5727
+Região Autónoma da Madeira,15,7123,6705
+Região Autónoma da Madeira,20,7685,7465
+Região Autónoma da Madeira,25,6968,6648
+Região Autónoma da Madeira,30,6709,6661
+Região Autónoma da Madeira,35,7573,7765
+Região Autónoma da Madeira,40,8766,9285
+Região Autónoma da Madeira,45,10399,10721
+Região Autónoma da Madeira,50,9747,10561
+Região Autónoma da Madeira,55,9859,11075
+Região Autónoma da Madeira,60,9051,10924
+Região Autónoma da Madeira,65,7198,9124
+Região Autónoma da Madeira,70,5819,7694
+Região Autónoma da Madeira,75,3983,6154
+Região Autónoma da Madeira,80,2441,4693
+Região Autónoma da Madeira,85,1731,4815
